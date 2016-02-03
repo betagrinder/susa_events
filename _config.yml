@@ -1,0 +1,14 @@
+name: Website
+highlighter: pygments
+exclude:
+  - .bundle
+  - .git
+  - .gitignore
+  - bin
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+markdown: kramdown
+collections:
+- events
