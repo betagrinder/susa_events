@@ -1,6 +1,5 @@
 name: Website
 highlighter: pygments
-basurl: susa_events
 exclude:
   - .bundle
   - .git
